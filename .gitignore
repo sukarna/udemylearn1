@@ -31,3 +31,6 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+
+#project info file by geany- code editor
+demylearn1.geany
